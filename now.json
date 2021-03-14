@@ -22,7 +22,7 @@
     ],
     "routes": [
         {
-            "src": "/(js|css|fonts)/(.*)",
+            "src": "/(js|css|fonts|layui)/(.*)",
             "headers": {
                 "cache-control": "max-age=31536000, immutable"
             },
